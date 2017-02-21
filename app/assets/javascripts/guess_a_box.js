@@ -4,9 +4,7 @@ function guessBox(boxNumber) {
 
   if (boxNumber === winningBox) {
     alert("You win!");
-  } else {
-    console.log("wrong");
-  }
+  } 
 
 }
 
