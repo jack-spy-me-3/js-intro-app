@@ -5,6 +5,7 @@ function guessBox(boxNumber) {
   if (boxNumber === winningBox) {
     alert("You win!");
   } 
+  // winningBox = 42;
 
 }
 
